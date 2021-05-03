@@ -1,6 +1,6 @@
 ---
 layout: layout.liquid
-pageTitle: Lazurite
+#pageTitle: Lazurite
 ---
 
-Test
+stay tuned for updates
