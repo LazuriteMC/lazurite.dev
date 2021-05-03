@@ -1,0 +1,8 @@
+{
+	"name": "lazurite-cloud",
+	"description": "A website for the Lazurite team",
+	"scripts": {
+		"build": "eleventy --input src/",
+		"start": "eleventy --watch --serve --input src/"
+	}
+}
